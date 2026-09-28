@@ -1,0 +1,7 @@
+customer_id,name,email,state,device_id
+101,John Smith,john@example.com,MO,DEV-100
+102,Sarah Lee,SARAH@EXAMPLE.COM,Missouri,DEV-101
+103,Mike Jones,,MO,DEV-102
+104,John Smith,john@example.com,MO,DEV-100
+105,Alice Kim,alice@email,Missouri,DEV-103
+106, Priya Shah ,PRIYA.SHAH@EXAMPLE.COM,MO,DEV-104
