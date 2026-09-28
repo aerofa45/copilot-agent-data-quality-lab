@@ -1,0 +1,7 @@
+{
+  "row_count": 6,
+  "missing_email_customer_ids": [103],
+  "invalid_email_customer_ids": [105],
+  "possible_duplicate_customer_ids": [101, 104],
+  "invalid_state_customer_ids": []
+}
