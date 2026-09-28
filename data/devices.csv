@@ -1,0 +1,6 @@
+device_id,customer_id,device_type,status
+DEV-100,101,Laptop,active
+DEV-101,102,Laptop,active
+DEV-102,103,Desktop,active
+DEV-103,105,Laptop,active
+DEV-104,106,Laptop,active
